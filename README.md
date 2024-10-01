@@ -1,6 +1,11 @@
 # app_belanja
 
-A new Flutter project.
+Anisatu Hasanah 362358302042
+
+![](assets/prakt1.png)
+![](assets/prakt2.png)
+![](assets/prakt3.png)
+![](assets/prakt4.png)
 
 ## Getting Started
 
